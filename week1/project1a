@@ -1,0 +1,10 @@
+# input 
+P = float(input("Enter Principal amount: "))
+R = float(input("Enter interest rate: "))
+T = float(input("Enter Time (yrs): "))
+
+# formula calculation 
+A = P * (1 + (R / 100) * T)
+
+# Output
+print(" Total Amount (A) is:", A)

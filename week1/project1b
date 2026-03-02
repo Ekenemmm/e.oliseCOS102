@@ -1,0 +1,11 @@
+# Input 
+P = float(input("Enter Principal: "))
+R = float(input("Enter interest rate per year (as a decimal): "))
+n = float(input("Enter no of times interest is compounded per year: "))
+t = float(input("Enter no of years: "))
+
+# Calculation part
+A = P * (1 + R / n)**(n * t)
+
+# Output
+print("Compound Interest Amount (A) is:", A)

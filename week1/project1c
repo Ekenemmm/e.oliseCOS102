@@ -1,0 +1,13 @@
+# Input 
+PMT = float(input("Enter Periodic Payment: "))
+R = float(input("Enter interest rate per year( decimal): "))
+n = float(input(" Enter no of compounding periods in a year: "))
+t = float(input("Enter no of years: "))
+
+# Calculation break down
+rate_ratio = R / n
+exponent = n * t
+A = PMT * (((1 + rate_ratio)**exponent - 1) / rate_ratio)
+
+# Output finally
+print(" Value of the Annuity (A) is:", A)
