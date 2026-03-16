@@ -1,0 +1,41 @@
+EmployeeID,Name,Department,Role,Email,Phone,Location
+GIG001,Chukwuemeka Okafor,Operations,Operations Manager,c.okafor@giglogistics.com,8031234567,Lagos
+GIG002,Adaeze Nwosu,Operations,Dispatch Officer,a.nwosu@giglogistics.com,8031234568,Lagos
+GIG003,Tunde Adeleke,Operations,Logistics Coordinator,t.adeleke@giglogistics.com,8031234569,Abuja
+GIG004,Ngozi Eze,Operations,Fleet Supervisor,n.eze@giglogistics.com,8031234570,Lagos
+GIG005,Emeka Chukwu,Operations,Route Planner,e.chukwu@giglogistics.com,8031234571,Port Harcourt
+GIG006,Fatima Bello,Operations,Warehouse Officer,f.bello@giglogistics.com,8031234572,Kano
+GIG007,Seun Adesanya,Operations,Delivery Agent,s.adesanya@giglogistics.com,8031234573,Lagos
+GIG008,Kelechi Onyekachi,Operations,Delivery Agent,k.onyekachi@giglogistics.com,8031234574,Enugu
+GIG009,Hauwa Musa,Finance,Chief Finance Officer,h.musa@giglogistics.com,8031234575,Abuja
+GIG010,Rotimi Adeyemi,Finance,Accountant,r.adeyemi@giglogistics.com,8031234576,Lagos
+GIG011,Chioma Obi,Finance,Budget Analyst,c.obi@giglogistics.com,8031234577,Lagos
+GIG012,Yusuf Garba,Finance,Accounts Officer,y.garba@giglogistics.com,8031234578,Kano
+GIG013,Blessing Okoro,Finance,Payroll Officer,b.okoro@giglogistics.com,8031234579,Port Harcourt
+GIG014,Taiwo Akinwale,Finance,Internal Auditor,t.akinwale@giglogistics.com,8031234580,Ibadan
+GIG015,Amina Usman,Human Resources,HR Manager,a.usman@giglogistics.com,8031234581,Abuja
+GIG016,Ifeanyi Okonkwo,Human Resources,Recruitment Officer,i.okonkwo@giglogistics.com,8031234582,Lagos
+GIG017,Sade Fashola,Human Resources,Training Coordinator,s.fashola@giglogistics.com,8031234583,Lagos
+GIG018,Nnamdi Okeke,Human Resources,HR Assistant,n.okeke@giglogistics.com,8031234584,Enugu
+GIG019,Maryam Abdullahi,Human Resources,Employee Relations Officer,m.abdullahi@giglogistics.com,8031234585,Abuja
+GIG020,Oluwaseun Balogun,Technology,Head of Technology,o.balogun@giglogistics.com,8031234586,Lagos
+GIG021,Chidi Nwachukwu,Technology,Software Developer,c.nwachukwu@giglogistics.com,8031234587,Lagos
+GIG022,Aisha Lawal,Technology,Data Analyst,a.lawal@giglogistics.com,8031234588,Abuja
+GIG023,Gbenga Adebisi,Technology,IT Support Engineer,g.adebisi@giglogistics.com,8031234589,Lagos
+GIG024,Nneka Oduya,Technology,Systems Administrator,n.oduya@giglogistics.com,8031234590,Port Harcourt
+GIG025,Ibrahim Suleiman,Technology,Cybersecurity Analyst,i.suleiman@giglogistics.com,8031234591,Abuja
+GIG026,Tolulope Ogunwale,Customer Service,Customer Service Manager,t.ogunwale@giglogistics.com,8031234592,Lagos
+GIG027,Esther Aniemeka,Customer Service,Customer Support Officer,e.aniemeka@giglogistics.com,8031234593,Lagos
+GIG028,Biodun Ojo,Customer Service,Customer Support Officer,b.ojo@giglogistics.com,8031234594,Ibadan
+GIG029,Rukayat Folarin,Customer Service,Complaints Resolution Officer,r.folarin@giglogistics.com,8031234595,Lagos
+GIG030,Chinedu Obiora,Customer Service,Call Centre Agent,c.obiora@giglogistics.com,8031234596,Enugu
+GIG031,Damilola Akintola,Sales,Sales Manager,d.akintola@giglogistics.com,8031234597,Lagos
+GIG032,Uche Okereke,Sales,Business Development Officer,u.okereke@giglogistics.com,8031234598,Port Harcourt
+GIG033,Zainab Idris,Sales,Key Account Manager,z.idris@giglogistics.com,8031234599,Kano
+GIG034,Femi Adeyinka,Sales,Sales Executive,f.adeyinka@giglogistics.com,8031234600,Lagos
+GIG035,Precious Igwe,Sales,Sales Executive,p.igwe@giglogistics.com,8031234601,Owerri
+GIG036,Lara Oduola,Marketing,Marketing Manager,l.oduola@giglogistics.com,8031234602,Lagos
+GIG037,Tochukwu Eze,Marketing,Digital Marketing Officer,t.eze@giglogistics.com,8031234603,Lagos
+GIG038,Hadiza Yakubu,Marketing,Brand Officer,h.yakubu@giglogistics.com,8031234604,Abuja
+GIG039,Victor Osemeka,Marketing,Content Creator,v.osemeka@giglogistics.com,8031234605,Lagos
+GIG040,Chidinma Nwofor,Marketing,Social Media Manager,c.nwofor@giglogistics.com,8031234606,Lagos
